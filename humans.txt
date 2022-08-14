@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> ganapathi <role> analyst trainee  <twitter>gana
 
 # THANKS
 
     <name>
 
-# TECHNOLOGY COLOPHON
+# TECHNOLOGY 
 
     HTML5, CSS3
     jQuery, Modernizr
