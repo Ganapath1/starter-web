@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 JUST TO ADD EXTRA..
 
 git.training going on...
+
+please fork this repository and then issue pull
+requests for review.
